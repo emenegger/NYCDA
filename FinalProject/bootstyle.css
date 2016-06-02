@@ -1,0 +1,24 @@
+.col1 {
+	border: 3px solid blue;
+}
+
+.col2 {
+	border: 3px solid blue;
+}
+
+.col3 {
+	border: 3px solid blue;
+}
+
+.center-block {
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+
+}
+
+.element {
+  .center-block();
+}
